@@ -15,10 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats Cards
+      - name: Generate GitHub Stats Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,7 +27,8 @@ jobs:
           config_display: large
           config_output: svg
           filename: github-metrics.svg
-          output_action: none
+          committer_branch: stats
+          committer_message: "chore: update github-metrics.svg [skip ci]"
 
       - name: Generate Languages Card
         uses: lowlighter/metrics@latest
@@ -49,7 +47,8 @@ jobs:
           config_display: large
           config_output: svg
           filename: github-languages.svg
-          output_action: none
+          committer_branch: stats
+          committer_message: "chore: update github-languages.svg [skip ci]"
 
       - name: Generate Habits Card
         uses: lowlighter/metrics@latest
@@ -65,19 +64,5 @@ jobs:
           config_display: large
           config_output: svg
           filename: github-habits.svg
-          output_action: none
-
-      - name: Move SVGs to output directory
-        run: |
-          mkdir -p dist
-          mv /metrics_renders/github-metrics.svg dist/ || true
-          mv /metrics_renders/github-languages.svg dist/ || true
-          mv /metrics_renders/github-habits.svg dist/ || true
-
-      - name: Publish to stats branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: stats
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: stats
+          committer_message: "chore: update github-habits.svg [skip ci]"

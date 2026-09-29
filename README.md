@@ -114,7 +114,7 @@ I go from raw data → statistical reasoning → ML/DL → GenAI/Agents → actu
 <td width="50%" valign="top">
 
 <details>
-<summary><b>🧠 Customer Intelligence Platform</b> · <code>Data Science</code> <code>SQL</code> <code>ML</code> <code>SHAP</code></summary>
+<summary><b>🧠 Customer Intelligence Platform</b><br><code>Data Science</code> <code>SQL</code> <code>ML</code> <code>SHAP</code></summary>
 <br>
 
 End-to-end analytics platform for **churn prediction, customer segmentation, lifetime value analysis and retention intelligence** 📊
@@ -129,7 +129,7 @@ Includes statistical testing, SQL analytics, multiple ML models, SHAP explainabi
 <td width="50%" valign="top">
 
 <details>
-<summary><b>🤖 LangGraph Conversational AI Agent</b> · <code>LangGraph</code> <code>LLMs</code> <code>Agents</code></summary>
+<summary><b>🤖 LangGraph Conversational AI Agent</b><br><code>LangGraph</code> <code>LLMs</code> <code>Agents</code></summary>
 <br>
 
 Stateful conversational AI built around a **ReAct-style agent architecture** with dynamic tool calling, persistent conversation state and local LLM inference 🧩
@@ -147,7 +147,7 @@ Includes SQLite checkpointing, multi-thread conversations, token streaming and 4
 <td width="50%" valign="top">
 
 <details>
-<summary><b>📄 Enterprise Workflow Intelligence</b> · <code>Document AI</code> <code>NLP</code> <code>OCR</code></summary>
+<summary><b>📄 Enterprise Workflow Intelligence</b><br><code>Document AI</code> <code>NLP</code> <code>OCR</code></summary>
 <br>
 
 AI-powered document workflow system covering **OCR, classification, information extraction, validation, routing and operational analytics** 🏢
@@ -162,7 +162,7 @@ Uses document ingestion pipelines, OCR engines, DistilBERT / TF-IDF classificati
 <td width="50%" valign="top">
 
 <details>
-<summary><b>🌊 Nepal Flood Spatial ML</b> · <code>Spatial ML</code> <code>Remote Sensing</code> <code>GIS</code></summary>
+<summary><b>🌊 Nepal Flood Spatial ML</b><br><code>Spatial ML</code> <code>Remote Sensing</code> <code>GIS</code></summary>
 <br>
 
 Multi-sensor Earth Observation pipeline for landscape-change detection across Nepal's Bhote Koshi–Trishuli basin 🛰️
@@ -180,7 +180,7 @@ Combines Sentinel-1 SAR, Sentinel-2 optical imagery and SRTM terrain features wi
 <td width="50%" valign="top">
 
 <details>
-<summary><b>🌙 The Nocturnal Tapestry</b> · <code>Time Series</code> <code>Statistics</code> <code>VIIRS</code></summary>
+<summary><b>🌙 The Nocturnal Tapestry</b><br><code>Time Series</code> <code>Statistics</code> <code>VIIRS</code></summary>
 <br>
 
 Time-series investigation of night-time radiance across seven Indian landscapes using VIIRS satellite observations and geospatial variables 🌃
@@ -195,7 +195,7 @@ Uses STL decomposition, change-point detection, econometric modeling, Granger ca
 <td width="50%" valign="top">
 
 <details>
-<summary><b>♟️ Adaptive Chess AI</b> · <code>Algorithms</code> <code>Optimization</code> <code>Search</code></summary>
+<summary><b>♟️ Adaptive Chess AI</b><br><code>Algorithms</code> <code>Optimization</code> <code>Search</code></summary>
 <br>
 
 Chess engine combining classical search with numerical optimization to dynamically adapt its evaluation strategy 🎮
