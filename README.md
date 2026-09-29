@@ -1,22 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=210&section=header&text=Biswarup%20Majumdar&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=data%20scientist%20%C2%B7%20ai%2Fml%20engineer%20%C2%B7%20building%20systems%20that%20actually%20work%20%F0%9F%9A%80&descAlignY=57&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:161B22,70:1F6FEB,100:58A6FF&height=230&section=header&text=Biswarup%20Majumdar&fontSize=50&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=data%20scientist%20%E2%80%A2%20ai%2Fml%20engineer%20%E2%80%A2%20ai%20systems%20builder&descAlignY=58&descSize=16&descColor=8B949E" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%F0%9F%94%A5+turning+data+into+intelligence;%F0%9F%A4%96+building+agents+that+actually+think;%F0%9F%A7%AA+experiment.+break.+learn.+ship.;%F0%9F%92%A1+from+notebooks+to+production;%E2%9A%A1+if+it+ain%27t+reproducible%2C+it+ain%27t+real" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=55&lines=%F0%9F%94%A5+turning+data+into+intelligence+%7C+%F0%9F%A4%96+building+agents+that+think;%F0%9F%A7%AA+experiment.+break.+learn.+ship.+%7C+%E2%9A%A1+notebooks+%E2%86%92+production" />
+
+<br>
+
+```js
+// current status
+const biswarup = {
+  role: "Data Scientist & AI/ML Engineer",
+  vibes: ["building things that actually work", "shipping > perfecting"],
+  currentlyObsessedWith: "Agentic AI & LangGraph",
+  funFact: "i debug models at 3am and call it self-care 🌙"
+};
+```
 
 <br>
 
 <a href="https://github.com/Mr-Rup">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mr--Rup-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://mr-rup.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/biswarup-majumdar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-Biswarup_Majumdar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:majumdarb104@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-majumdarb104@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -294,29 +308,29 @@ ConvLSTM-based modeling with temporal feature aggregation for pharmacokinetic pa
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-## 📡 recently active (auto-updated ✨)
-
-<!-- RECENT-ACTIVITY:START -->
-<!-- RECENT-ACTIVITY:END -->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-## 📊 github stats (receipts 🧾)
+## 📊 github stats (the receipts 🧾)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Rup&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rup&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<!-- self-hosted via lowlighter/metrics — never goes down 💪 -->
+<img height="220" alt="GitHub Stats" src="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/stats/github-metrics.svg" />
+&nbsp;&nbsp;
+<img height="220" alt="Top Languages" src="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/stats/github-languages.svg" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Mr-Rup&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Mr-Rup&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="180" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Rup&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</picture>
+
+<br><br>
+
+<!-- coding habits — auto-generated daily -->
+<img alt="Coding Habits" src="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/stats/github-habits.svg" />
 
 <br>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Rup&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/output/github-contribution-grid-snake-dark.svg">
