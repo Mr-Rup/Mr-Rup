@@ -1,170 +1,357 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Biswarup%20Majumdar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Intern%20%7C%20Data%20Science%20Postgraduate&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:1F6FEB&height=210&section=header&text=Biswarup%20Majumdar&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=59&descSize=17" />
 
-<a href="https://www.linkedin.com/in/biswarup-majumdar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Deep+Learning+%26+Neural+Networks;Statistical+Modeling+%2B+ML+Pipelines;Research-Oriented+AI+Systems;Building+Models+That+Survive+Reality." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Machine+Learning+%E2%80%A2+Deep+Learning;Generative+AI+%E2%80%A2+Agentic+AI;Statistical+Modeling+%E2%80%A2+AI+Systems;Data+%E2%86%92+Models+%E2%86%92+Systems;Experiment.+Engineer.+Iterate." />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/biswarup-majumdar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Mr-Rup">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="http://mr-rup.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://mr-rup.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/biswarup-majumdar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:majumdarb104@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-### 👨‍🔬 About Me
+## 🧠 Beyond `model.fit()`
 
-I enjoy building intelligent systems that combine strong mathematical foundations with practical engineering workflows — ranging from deep learning experimentation and reproducible ML pipelines to full-stack AI applications and deployment-oriented systems.
+I’m a **Data Scientist and AI/ML Engineer** who enjoys working across the full path from data and statistical reasoning to machine learning, deep learning, Generative AI and engineered AI systems.
 
-```python
-class Biswarup:
-    def __init__(self):
-        self.role = "Tech Nerd"
-        self.education = "M.Sc. Data Science"
-        self.interests = [
-            "Agentic Ai Systems",
-            "Deep Learning", "Spatiotemporal Learning",
-            "Statistical Modeling", "ML Pipelines",
-            "Research & Industry-Oriented AI Systems"
-        ]
-        self.philosophy = "Strong models survive reality, not just benchmarks."
+My background in **Statistics and Data Science** shapes how I approach ML: understand the data, question the assumptions, validate carefully, then build something that can actually leave the notebook.
 
-    def current_focus(self):
-        return "Building reproducible, mathematically grounded AI systems"
+```text
+DATA
+  ↓
+STATISTICS
+  ↓
+MACHINE LEARNING
+  ↓
+DEEP LEARNING
+  ↓
+GENERATIVE / AGENTIC AI
+  ↓
+ENGINEERED SYSTEMS
 ```
 
----
-
-### 🔬 Current Focus
-
-- 🧠 Deep Learning & Neural Networks
-- 📈 AI Model Development & Evaluation
-- 🌐 Spatiotemporal Learning
-- 🔁 Machine Learning Pipelines
-- 📐 Statistical Thinking in AI
-- 🧪 Reproducible ML & Experimentation
-- 🎓 Research & Industry-Oriented AI Systems
+I’m especially interested in projects where **modeling depth and engineering meet**.
 
 ---
 
-### ⚙️ Tech Stack
+## ⚡ What I Work On
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🧠 AI / Machine Learning**
+### 📊 Data Science & Analytics
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
-**📊 Data & Analytics**
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistical_Modeling-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Time_Series-333333?style=flat-square" />
+Statistical analysis  
+Predictive modeling  
+SQL & business analytics  
+Feature engineering  
+Time-series modeling  
+Model evaluation & explainability  
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**🚀 Engineering & MLOps**
+### 🧠 Machine Learning & Deep Learning
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+Classical ML  
+Neural networks  
+Computer vision  
+Sequential modeling  
+Spatiotemporal learning  
+Transfer learning  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Generative & Agentic AI
+
+LLM applications  
+Retrieval-Augmented Generation  
+Tool-using agents  
+LangGraph workflows  
+Stateful AI systems  
+Local / quantized LLMs  
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ ML Engineering
+
+Reproducible pipelines  
+Experiment tracking  
+Data / model versioning  
+Model serving  
+REST APIs  
+Deployment-oriented workflows  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Customer Intelligence Platform
+
+End-to-end analytics platform for **churn prediction, customer segmentation, lifetime value analysis and retention intelligence**.
+
+Includes statistical testing, SQL analytics, multiple ML models, SHAP explainability, K-Means segmentation, DVC pipelines and an interactive dashboard.
+
+**`Data Science` `SQL` `ML` `SHAP` `DVC`**
+
+<a href="https://github.com/Mr-Rup/customer-intelligence-platform"><b>Explore repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 LangGraph Conversational AI Agent
+
+Stateful conversational AI built around a **ReAct-style agent architecture** with dynamic tool calling, persistent conversation state and local LLM inference.
+
+Includes SQLite checkpointing, multi-thread conversations, token streaming and 4-bit quantized Qwen inference.
+
+**`LangGraph` `LLMs` `Agents` `Qwen` `SQLite`**
+
+<a href="https://github.com/Mr-Rup/ChatBot-in-LangGraph"><b>Explore repository →</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Enterprise Workflow Intelligence Platform
+
+AI-powered document workflow system covering **OCR, classification, information extraction, validation, routing and operational analytics**.
+
+Uses document ingestion pipelines, OCR engines, DistilBERT / TF-IDF classification, business-rule validation, DVC and Docker.
+
+**`Document AI` `NLP` `OCR` `DVC` `Docker`**
+
+<a href="https://github.com/Mr-Rup/Enterprise-Document-Intelligence-Platform"><b>Explore repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 Nepal Flood Spatial ML
+
+Multi-sensor Earth Observation pipeline for landscape-change detection across Nepal's Bhote Koshi–Trishuli basin.
+
+Combines Sentinel-1 SAR, Sentinel-2 optical imagery and SRTM terrain features with **spatial block cross-validation** to reduce geographic leakage.
+
+**`Spatial ML` `Remote Sensing` `GIS` `Random Forest`**
+
+<a href="https://github.com/Mr-Rup/Nepal-Flood-Spatial-ML"><b>Explore repository →</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌙 The Nocturnal Tapestry
+
+Time-series investigation of night-time radiance across seven Indian landscapes using VIIRS satellite observations and geospatial variables.
+
+Uses STL decomposition, change-point detection, econometric modeling, Granger causality and SARIMAX forecasting.
+
+**`Time Series` `Statistics` `VIIRS` `Econometrics`**
+
+<a href="https://github.com/Mr-Rup/The-Nocturnal-Tapestry"><b>Explore repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ Adaptive Chess AI
+
+Chess engine combining classical search with numerical optimization to dynamically adapt its evaluation strategy.
+
+Uses Minimax, Alpha-Beta pruning, learned feature weights, Conjugate Gradient optimization and Golden Section Search.
+
+**`Algorithms` `Optimization` `Search` `Python`**
+
+<a href="https://github.com/Mr-Rup/Chess_AI_with_basic_optimizer"><b>Explore repository →</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,postgres,mongodb,fastapi,docker,git,github&perline=11" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 
-**🌐 Development**
+</div>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<br>
 
-</td>
-</tr>
-</table>
+<details>
+<summary><b>🔭 Broader toolkit I've worked with</b></summary>
 
----
+<br>
 
-### 📌 Featured Work
+**Deep Learning**  
+CNNs · RNNs · LSTM · GRU · ConvLSTM · U-Net · Transformers · Transfer Learning
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Computer Vision**  
+OpenCV · MONAI · MediaPipe · Image Segmentation
 
-**♟️ Chess AI with Basic Optimizer**
+**Generative AI**  
+RAG · Embeddings · BERT · LoRA · Local LLMs · Quantization · Tool Calling
 
-AI-driven chess engine focused on algorithmic decision-making, move evaluation, and optimization workflows.
+**Data & Statistics**  
+Probability · Hypothesis Testing · Time Series · Statistical Modeling · Feature Engineering · Experimentation
 
-</td>
-<td width="33%" valign="top">
+**Engineering**  
+FastAPI · Streamlit · Docker · GitHub Actions · REST APIs · DVC · MLflow
 
-**🌐 Full-Stack Portfolio Website**
+**Development / Infrastructure**  
+React · TypeScript · Tailwind CSS · MongoDB · PostgreSQL · AWS · GCP · Azure · Vercel · Render
 
-Responsive portfolio platform with frontend-backend integration and dynamic content workflows.
-
-</td>
-<td width="33%" valign="top">
-
-**🧠 Deep Learning & Research Work**
-
-Segmentation architectures, sequential modeling, and research-driven experimentation in PyTorch.
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### 📝 Publications & Writing
+## 🧪 How I Think About ML
 
-- 📄 *When Models Lie: The Silent Assumptions Behind Accuracy in Data Science*
-- 🏥 ISMRM Indian Chapter Conference Abstracts (2026)
+```text
+Problem
+   │
+   ▼
+Data ───────► assumptions / quality / leakage
+   │
+   ▼
+Model ──────► baselines / features / learning
+   │
+   ▼
+Evaluation ─► metrics / validation / failure modes
+   │
+   ▼
+Engineering ► reproducibility / APIs / deployment
+   │
+   ▼
+Real Use ───► does the system still make sense?
+```
+
+For me, the interesting question isn't only **“How accurate is the model?”**
+
+It is also:
+
+> **What did it learn, why does it work, where does it fail, and can we build something useful around it?**
 
 ---
 
-### 📊 GitHub Stats
+## 🔬 Research Background
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Rup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rup&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Research is one part of my technical foundation, particularly in **deep learning, computer vision and spatiotemporal modeling**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Rup&theme=tokyonight&hide_border=true" />
-</p>
+**Spatiotemporal Deep Learning for Pharmacokinetic Mapping from DCE-MRI**  
+ConvLSTM-based modeling with temporal feature aggregation for pharmacokinetic parameter prediction.
 
----
+**ISMRM Indian Chapter 2026**
+- *Comparative Analysis of U-Net Architectures for Head and Neck Tumor Segmentation Using Cross-Domain Transfer Learning*
+- *Cross-Species Transfer Learning for Brain Tumor Segmentation: From Humans to Mice*
 
-### 🌍 Connect With Me
-
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/biswarup-majumdar">LinkedIn</a> &nbsp;•&nbsp;
-  🌐 <a href="http://mr-rup.vercel.app">Portfolio</a> &nbsp;•&nbsp;
-  📫 <a href="mailto:majumdarb104@gmail.com">majumdarb104@gmail.com</a>
-</p>
+**Technical Writing**  
+*When Models Lie: The Silent Assumptions Behind Accuracy in Data Science*
 
 ---
 
-<p align="center">
-  <em>"Strong models are not defined only by performance, but by how well their assumptions survive reality."</em>
-</p>
+## 📡 Recently Active
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Rup&style=flat-square&color=blue" alt="profile views" />
-</p>
+<!-- RECENT-ACTIVITY:START -->
+This section updates automatically from my latest public GitHub activity.
+<!-- RECENT-ACTIVITY:END -->
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Rup&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Rup&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Mr-Rup/Mr-Rup/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+Interested in **Data Science, AI/ML Engineering, Generative AI or intelligent systems**?
+
+<br>
+
+<a href="https://mr-rup.vercel.app">
+<img src="https://img.shields.io/badge/Explore_My_Work-Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/biswarup-majumdar">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:majumdarb104@gmail.com">
+<img src="https://img.shields.io/badge/Reach_Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mr-Rup&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<sub><b>Build the model · Question the assumptions · Engineer the system</b></sub>
+
+</div>
