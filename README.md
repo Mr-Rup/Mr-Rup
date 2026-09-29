@@ -2,23 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:161B22,70:1F6FEB,100:58A6FF&height=230&section=header&text=Biswarup%20Majumdar&fontSize=50&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=data%20scientist%20%E2%80%A2%20ai%2Fml%20engineer%20%E2%80%A2%20ai%20systems%20builder&descAlignY=58&descSize=16&descColor=8B949E" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=480&lines=%F0%9F%94%A5+turning+data+into+intelligence;%F0%9F%A4%96+building+agents+that+think;%F0%9F%A7%AA+experiment+%C2%B7+break+%C2%B7+learn+%C2%B7+ship;%E2%9A%A1+notebooks+%E2%86%92+production" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=55&lines=%F0%9F%94%A5+turning+data+into+intelligence+%7C+%F0%9F%A4%96+building+agents+that+think;%F0%9F%A7%AA+experiment.+break.+learn.+ship.+%7C+%E2%9A%A1+notebooks+%E2%86%92+production" />
-
-<br>
-
-```js
-// current status
-const biswarup = {
-  role: "Data Scientist & AI/ML Engineer",
-  vibes: ["building things that actually work", "shipping > perfecting"],
-  currentlyObsessedWith: "Agentic AI & LangGraph",
-  funFact: "i debug models at 3am and call it self-care 🌙"
-};
-```
-
-<br>
+> `💻 data scientist · ai/ml engineer · currently obsessed with agentic ai`
 
 <a href="https://github.com/Mr-Rup">
 <img src="https://img.shields.io/badge/-Mr--Rup-181717?style=flat-square&logo=github&logoColor=white" />
@@ -66,57 +52,54 @@ I go from raw data → statistical reasoning → ML/DL → GenAI/Agents → actu
 
 ## ⚡ what i actually work on
 
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 📊 data science & analytics
+**📊 data science & analytics**
 
-- 🔬 Statistical analysis
-- 📈 Predictive modeling
-- 🗃️ SQL & business analytics
-- 🛠️ Feature engineering
-- ⏰ Time-series modeling
-- 🔍 Model evaluation & explainability
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 ML & deep learning
-
-- 🎯 Classical ML (the OGs)
-- 🕸️ Neural networks
-- 👁️ Computer vision
-- 🔄 Sequential modeling
-- 🌍 Spatiotemporal learning
-- 🔁 Transfer learning
+🔬 Statistical analysis
+📈 Predictive modeling
+🗃️ SQL & business analytics
+🛠️ Feature engineering
+⏰ Time-series modeling
+🔍 Explainability
 
 </td>
-</tr>
+<td width="25%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+**🧠 ML & deep learning**
 
-### 🤖 generative & agentic AI
-
-- 💬 LLM applications
-- 📚 Retrieval-Augmented Generation
-- 🛠️ Tool-using agents
-- 🔗 LangGraph workflows
-- 🧩 Stateful AI systems
-- 💻 Local / quantized LLMs
+🎯 Classical ML
+🕸️ Neural networks
+👁️ Computer vision
+🔄 Sequential modeling
+🌍 Spatiotemporal learning
+🔁 Transfer learning
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ⚙️ ML engineering
+**🤖 generative & agentic AI**
 
-- ♻️ Reproducible pipelines
-- 📋 Experiment tracking
-- 📦 Data / model versioning
-- 🚀 Model serving
-- 🔌 REST APIs
-- 🏗️ Deployment-oriented workflows
+💬 LLM applications
+📚 RAG
+🛠️ Tool-using agents
+🔗 LangGraph workflows
+🧩 Stateful AI systems
+💻 Local / quantized LLMs
+
+</td>
+<td width="25%" valign="top">
+
+**⚙️ ML engineering**
+
+♻️ Reproducible pipelines
+📋 Experiment tracking
+📦 Data / model versioning
+🚀 Model serving
+🔌 REST APIs
+🏗️ Deployment workflows
 
 </td>
 </tr>
@@ -126,32 +109,36 @@ I go from raw data → statistical reasoning → ML/DL → GenAI/Agents → actu
 
 ## 🚀 stuff i've built (the greatest hits)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Customer Intelligence Platform
+<details>
+<summary><b>🧠 Customer Intelligence Platform</b> · <code>Data Science</code> <code>SQL</code> <code>ML</code> <code>SHAP</code></summary>
+<br>
 
 End-to-end analytics platform for **churn prediction, customer segmentation, lifetime value analysis and retention intelligence** 📊
 
 Includes statistical testing, SQL analytics, multiple ML models, SHAP explainability, K-Means segmentation, DVC pipelines and an interactive dashboard.
 
-**`Data Science` `SQL` `ML` `SHAP` `DVC`**
-
 <a href="https://github.com/Mr-Rup/customer-intelligence-platform"><b>check it out →</b></a>
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 LangGraph Conversational AI Agent
+<details>
+<summary><b>🤖 LangGraph Conversational AI Agent</b> · <code>LangGraph</code> <code>LLMs</code> <code>Agents</code></summary>
+<br>
 
 Stateful conversational AI built around a **ReAct-style agent architecture** with dynamic tool calling, persistent conversation state and local LLM inference 🧩
 
 Includes SQLite checkpointing, multi-thread conversations, token streaming and 4-bit quantized Qwen inference.
 
-**`LangGraph` `LLMs` `Agents` `Qwen` `SQLite`**
-
 <a href="https://github.com/Mr-Rup/ChatBot-in-LangGraph"><b>check it out →</b></a>
+
+</details>
 
 </td>
 </tr>
@@ -159,28 +146,32 @@ Includes SQLite checkpointing, multi-thread conversations, token streaming and 4
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Enterprise Workflow Intelligence Platform
+<details>
+<summary><b>📄 Enterprise Workflow Intelligence</b> · <code>Document AI</code> <code>NLP</code> <code>OCR</code></summary>
+<br>
 
 AI-powered document workflow system covering **OCR, classification, information extraction, validation, routing and operational analytics** 🏢
 
 Uses document ingestion pipelines, OCR engines, DistilBERT / TF-IDF classification, business-rule validation, DVC and Docker.
 
-**`Document AI` `NLP` `OCR` `DVC` `Docker`**
-
 <a href="https://github.com/Mr-Rup/Enterprise-Document-Intelligence-Platform"><b>check it out →</b></a>
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Nepal Flood Spatial ML
+<details>
+<summary><b>🌊 Nepal Flood Spatial ML</b> · <code>Spatial ML</code> <code>Remote Sensing</code> <code>GIS</code></summary>
+<br>
 
 Multi-sensor Earth Observation pipeline for landscape-change detection across Nepal's Bhote Koshi–Trishuli basin 🛰️
 
 Combines Sentinel-1 SAR, Sentinel-2 optical imagery and SRTM terrain features with **spatial block cross-validation** to reduce geographic leakage.
 
-**`Spatial ML` `Remote Sensing` `GIS` `Random Forest`**
-
 <a href="https://github.com/Mr-Rup/Nepal-Flood-Spatial-ML"><b>check it out →</b></a>
+
+</details>
 
 </td>
 </tr>
@@ -188,28 +179,32 @@ Combines Sentinel-1 SAR, Sentinel-2 optical imagery and SRTM terrain features wi
 <tr>
 <td width="50%" valign="top">
 
-### 🌙 The Nocturnal Tapestry
+<details>
+<summary><b>🌙 The Nocturnal Tapestry</b> · <code>Time Series</code> <code>Statistics</code> <code>VIIRS</code></summary>
+<br>
 
 Time-series investigation of night-time radiance across seven Indian landscapes using VIIRS satellite observations and geospatial variables 🌃
 
 Uses STL decomposition, change-point detection, econometric modeling, Granger causality and SARIMAX forecasting.
 
-**`Time Series` `Statistics` `VIIRS` `Econometrics`**
-
 <a href="https://github.com/Mr-Rup/The-Nocturnal-Tapestry"><b>check it out →</b></a>
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### ♟️ Adaptive Chess AI
+<details>
+<summary><b>♟️ Adaptive Chess AI</b> · <code>Algorithms</code> <code>Optimization</code> <code>Search</code></summary>
+<br>
 
 Chess engine combining classical search with numerical optimization to dynamically adapt its evaluation strategy 🎮
 
 Uses Minimax, Alpha-Beta pruning, learned feature weights, Conjugate Gradient optimization and Golden Section Search.
 
-**`Algorithms` `Optimization` `Search` `Python`**
-
 <a href="https://github.com/Mr-Rup/Chess_AI_with_basic_optimizer"><b>check it out →</b></a>
+
+</details>
 
 </td>
 </tr>
